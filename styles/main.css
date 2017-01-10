@@ -38,19 +38,14 @@ h1 {
 
 .arrows {
     position: absolute;
-    width: 600px;
+    width: 200px;
     height: 120px;
     bottom: -100px;
     left: 680px;
 }
 
-span.leftArrow {
-    color: white;
-    font-size: 100px;
-    cursor: pointer;
-}
-
-span.rightArrow {
+.rightArrow ,
+.leftArrow {
     color: white;
     font-size: 100px;
     cursor: pointer;
